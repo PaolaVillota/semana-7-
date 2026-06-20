@@ -1,0 +1,13 @@
+Ejemplo 1: 
+
+{
+  "tipo": "Servicios Públicos",
+  "descripcion": "Interrupción frecuente del servicio de agua"
+}
+
+Ejemplo 2: 
+
+{
+  "tipo": "Salubridad",
+  "descripcion": "Acumulación de agua estancada que genera mosquitos"
+}

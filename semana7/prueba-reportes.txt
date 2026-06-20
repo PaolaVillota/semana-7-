@@ -1,0 +1,9 @@
+Al consultar la ruta GET /reportes se muestran todos los reportes almacenados en el array reportes. Después de registrar un reporte mediante POST, este aparece en la lista cuando se realiza una consulta GET. Y como respuesta en la ruta GET /reportes se obtiene:
+
+ [
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
